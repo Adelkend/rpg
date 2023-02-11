@@ -1,0 +1,10 @@
+- Sistema de coordenadas:
+    -> Sistema que mantém o jogador como referência de tudo
+    -> Sistema de câmera faz tudo ser relativo, dificultando a descrição de movimentos e direções
+    -> Como o sistema é relativo a posição do personagem, é possível alterar a trajetória da fireball,
+     minimamente, movimentando o personagem
+    -> MODIFICAR
+- Utilização de sprites: SOLUÇÃO ENCONTRADA
+    -> Utilizar sprites deixa o jogo não otimizado
+    -> Blitar uma sequência muito grande de magias(sprites) eventualmente deixa o jogo travado
+    -> ACHAR ALTERNATIVA PARA BLITAR MAGIAS
